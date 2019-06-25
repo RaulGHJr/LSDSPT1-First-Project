@@ -3,7 +3,9 @@
 I like the movie "Let It Ride" starring Richard Dreyfus. It's a fun movie based around a nice man with a gambling problem, and a heart of
 gold. At one point in the movie, there is probably the best example of Contrarion betting I've ever seen. Contrarion betting is essentially
 betting 'contrary' to popular opinion. I always thought of this as assuming that the experts don't know anything.
+
 {Ron Swanson Meme here}
+
 So, when I found a dataset of Horse betting Tipsters, I thought that I'd explore the data to see just how useful/useless they might be.
 
 I'll be analysing the data in 3 ways:
